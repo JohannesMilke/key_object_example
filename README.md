@@ -49,4 +49,4 @@ alt="Flutter Tutorial - Flutter Keys - Object Key YouTube video" width="480" bor
 [youtube]: https://www.youtube.com/JohannesMilke?sub_confirmation=1
 [courses]: https://johannesmilke.teachable.com/p/home
 [newsletter]: https://johannesmilke.com/newsletter
-[sponsor]: https://github.com/sponsors.dart/JohannesMilke
+[sponsor]: https://github.com/sponsors/JohannesMilke
